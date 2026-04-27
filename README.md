@@ -1,6 +1,6 @@
 Here is the code based on the results described in https://www.mdpi.com/1467-3045/45/4/223
 
-to assess level of association for distinct diseases.
+to assess the level of associations for distinct diseases.
 
 OpenTargets data (https://platform.opentargets.org/),
 
